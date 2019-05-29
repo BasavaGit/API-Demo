@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+SuiteAPI,,,2019-05-29 11:11:37,2019-05-29 11:11:48,10.363s,PASSED
+,,,,,,
+Test Cases/HTTPMethods/HttpTestCasaes,,,2019-05-29 11:11:38,2019-05-29 11:11:48,9.934s,PASSED
+"sendRequestAndVerify(findTestObject(""Object Repository/UserRestServices/ListUser""))",,,2019-05-29 11:11:38,2019-05-29 11:11:44,6.101s,PASSED
+"sendRequestAndVerify(findTestObject(""UserRestServices/CreateUSer""))",,,2019-05-29 11:11:44,2019-05-29 11:11:45,1.090s,PASSED
+"sendRequestAndVerify(findTestObject(""Object Repository/UpdateUser""))",,,2019-05-29 11:11:45,2019-05-29 11:11:47,1.105s,PASSED
+"sendRequestAndVerify(findTestObject(""Object Repository/DeleteUser""))",,,2019-05-29 11:11:47,2019-05-29 11:11:48,1.085s,PASSED
